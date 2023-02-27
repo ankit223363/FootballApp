@@ -1,0 +1,141 @@
+body.active-modal {
+    overflow-y: hidden;
+}
+.h1tag{
+    font-size: x-large;
+    width: 870px;
+    height: 512px;
+    z-index: 9000;
+    display: grid;
+    grid-template-rows: repeat(5,1fr);
+    grid-template-columns:  repeat(9,1fr);
+    row-gap: 10px;
+    column-gap: 10px; 
+}
+.modal{
+    width: 890px;
+    height: 522px;
+    top: 10%;
+    left: 15%;
+    position: fixed;
+    transform: 'translate(-50%, -50%)';
+    z-index: 1000;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.overlay {
+    background: url('../Static/Images/FootballField.png');
+    background-size:100% 100%;
+    margin-left: 12px;
+    margin-top: 12px;
+    width: 935px;
+    height: 522px;
+    top: 10%;
+    left: 15%;
+    position: fixed;
+    transform: 'translate(-50%, -50%)';
+    z-index: 1000;
+    display: grid;
+    grid-template-rows: repeat(5,1fr);
+    grid-template-columns:  repeat(9,1fr);
+    row-gap: 10px;
+    column-gap: 10px; 
+}
+
+
+.modal-content {
+    z-index: 2000;
+    width: 100%;   
+    background: transparent;
+    height: 100%;
+}
+
+.close-modal {
+    position: relative;
+    width: 59px;
+    height: 59px;
+    background: url('../Static/Images/back.jpg');
+    z-index: 1001;
+}
+.save-modal {
+    position: relative;
+    left: 240px;
+    width: 59px;
+    height: 59px;
+    background: url('../Static/Images/save.png');
+    z-index: 1001;
+}
+
+.Striker{
+    margin-top: -50px;
+    margin-right: -100px;
+    width: 160px;
+    height: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    grid-column: 4/span 1;
+    grid-row: 2/span 3;
+}
+
+.Midfielder{
+    margin-top: -50px;
+    margin-right: 50px;
+    width: 80px;
+    height: 300px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    grid-column: 6/span 1;
+    grid-row: 2/span 3;
+}
+
+.Defender{
+    width: 80px;
+    height: 400px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    grid-column: 7/span 1;
+    grid-row: 1/span 5;
+}
+.Goalkeeper{
+    margin-top : -50px;;
+    width: 80px;
+    height: 100px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    grid-column: 8/span 1;
+    grid-row: 3/span 1;
+}
+.playercls{
+    display: flex;
+    justify-content: center;
+    color: red;
+    background: url(../Static/Images/football.png);
+    width: 20px;;
+    height: 20px;
+    padding: 30px;
+    border-radius: 50%;
+    font-family: Impact;
+    font-variant: small-caps;
+    text-shadow: -2px 4px yellow;
+    text-align: center;
+    letter-spacing: 5px;
+}
+.teamLabel{
+    left: 750px;
+    width: 200px;
+    margin-left: 250px;
+    margin-top: -200px;
+    text-align: center;
+    font-size: xx-large;
+    color:chartreuse;
+}

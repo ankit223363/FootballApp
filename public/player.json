@@ -1,0 +1,529 @@
+[
+    {
+        "id": 1003,
+        "first_name": "Hector",
+        "last_name": "Bellerin",
+        "team": 1,
+        "position": "Defender",
+        "image": "hectorbellerin.jpg"
+    },
+    {
+        "id": 1101,
+        "first_name": "Petr",
+        "last_name": "Cech",
+        "team": 2,
+        "position": "Goalkeeper",
+        "image": "petrcech.jpg"
+    },
+    {
+        "id": 1402,
+        "first_name": "Olivier",
+        "last_name": "Giroud",
+        "team": 3,
+        "position": "Striker",
+        "image": "oliviergiroud.jpg"
+    },
+    {
+        "id": 1027,
+        "first_name": "Alex",
+        "last_name": "Iwobi",
+        "team": 4,
+        "position": "Midfielder",
+        "image": "alexiwobi.jpg"
+    },
+    {
+        "id": 1009,
+        "first_name": "Laurent",
+        "last_name": "Koscielny",
+        "team": 5,
+        "position": "Defender",
+        "image": "laurentkoscielny.jpg"
+    },
+    {
+        "id": 1033,
+        "first_name": "Mesut",
+        "last_name": "Ozil",
+        "team": 6,
+        "position": "Midfielder",
+        "image": "mesutozil.jpg"
+    },
+    {
+        "id": 1048,
+        "first_name": "Alexis",
+        "last_name": "Sanchez",
+        "team": 7,
+        "position": "Striker",
+        "image": "alexissanchez.jpg"
+    },
+    {
+        "id": 1041,
+        "first_name": "Theo",
+        "last_name": "Walcott",
+        "team": 8,
+        "position": "Midfielder",
+        "image": "theowalcott.jpg"
+    },
+    {
+        "id": 1404,
+        "first_name": "Marcos",
+        "last_name": "Alonso",
+        "team": 9,
+        "position": "Defender",
+        "image": "marcosalonso.jpg"
+    },
+    {
+        "id": 1201,
+        "first_name": "Cesar",
+        "last_name": "Azpilicueta",
+        "team": 10,
+        "position": "Defender",
+        "image": "cesarazpilicueta.jpg"
+    },
+    {
+        "id": 1304,
+        "first_name": "Gary",
+        "last_name": "Cahill",
+        "team": 11,
+        "position": "Defender",
+        "image": "garycahill.jpg"
+    },
+    {
+        "id": 1043,
+        "first_name": "Diego",
+        "last_name": "Costa",
+        "team": 12,
+        "position": "Striker",
+        "image": "diegocosta.jpg"
+    },
+    {
+        "id": 1016,
+        "first_name": "Thibaut",
+        "last_name": "Courtois",
+        "team": 13,
+        "position": "Goalkeeper",
+        "image": "thibautcourtois.jpg"
+    },
+    {
+        "id": 1026,
+        "first_name": "Eden",
+        "last_name": "Hazard",
+        "team": 14,
+        "position": "Midfielder",
+        "image": "edenhazard.jpg"
+    },
+    {
+        "id": 1104,
+        "first_name": "Nemanja",
+        "last_name": "Matic",
+        "team": 15,
+        "position": "Midfielder",
+        "image": "nemanjamatic.jpg"
+    },
+    {
+        "id": 1032,
+        "first_name": "Victor",
+        "last_name": "Moses",
+        "team": 16,
+        "position": "Midfielder",
+        "image": "victormoses.jpg"
+    },
+    {
+        "id": 1701,
+        "last_name": "Willian",
+        "team": 17,
+        "position": "Midfielder",
+        "image": "willian.jpg"
+    },
+    {
+        "id": 1103,
+        "first_name": "Christian",
+        "last_name": "Benteke",
+        "team": 18,
+        "position": "Striker",
+        "image": "christianbenteke.jpg"
+    },
+    {
+        "id": 1038,
+        "first_name": "Daniel",
+        "last_name": "Amartey",
+        "team": 19,
+        "position": "Midfielder",
+        "image": "danielamartey.jpg"
+    },
+    {
+        "id": 1007,
+        "first_name": "Robert",
+        "last_name": "Huth",
+        "team": 20,
+        "position": "Defender",
+        "image": "roberthuth.jpg"
+    },
+    {
+        "id": 1029,
+        "first_name": "Riyad",
+        "last_name": "Mahrez",
+        "team": 1,
+        "position": "Midfielder",
+        "image": "riyadmahrez.jpg"
+    },
+    {
+        "id": 1012,
+        "first_name": "Wes",
+        "last_name": "Morgan",
+        "team": 2,
+        "position": "Defender",
+        "image": "wesmorgan.jpg"
+    },
+    {
+        "id": 2306,
+        "first_name": "Kasper",
+        "last_name": "Schmeichel",
+        "team": 3,
+        "position": "Goalkeeper",
+        "image": "kasperschmeichel.jpg"
+    },
+    {
+        "id": 1049,
+        "first_name": "Islam",
+        "last_name": "Slimani",
+        "team": 4,
+        "position": "Striker",
+        "image": "islamslimani.jpg"
+    },
+    {
+        "id": 1302,
+        "first_name": "Jamie",
+        "last_name": "Vardy",
+        "team": 5,
+        "position": "Striker",
+        "image": "jamievardy.jpg"
+    },
+    {
+        "id": 1042,
+        "first_name": "Sergio",
+        "last_name": "Aguero",
+        "team": 6,
+        "position": "Striker",
+        "image": "sergioaguero.jpg"
+    },
+    {
+        "id": 1015,
+        "first_name": "Claudio",
+        "last_name": "Bravo",
+        "team": 7,
+        "position": "Goalkeeper",
+        "image": "claudiobravo.jpg"
+    },
+    {
+        "id": 1703,
+        "first_name": "Gael",
+        "last_name": "Clichy",
+        "team": 8,
+        "position": "Defender",
+        "image": "gaelclichy.jpg"
+    },
+    {
+        "id": 1203,
+        "first_name": "Kevin",
+        "last_name": "De Bruyne",
+        "team": 9,
+        "position": "Midfielder",
+        "image": "kevindebruyne.jpg"
+    },
+    {
+        "id": 1045,
+        "first_name": "Kelechi",
+        "last_name": "Iheanacho",
+        "team": 10,
+        "position": "Striker",
+        "image": "kelechiiheanacho.jpg"
+    },
+    {
+        "id": 2200,
+        "first_name": "Gabriel",
+        "last_name": "Jesus",
+        "team": 11,
+        "position": "Striker",
+        "image": "gabrieljesus.jpg"
+    },
+    {
+        "id": 1008,
+        "first_name": "Aleksandar",
+        "last_name": "Kolarov",
+        "team": 12,
+        "position": "Defender",
+        "image": "aleksandarkolarov.jpg"
+    },
+    {
+        "id": 2201,
+        "first_name": "Leroy",
+        "last_name": "Sane",
+        "team": 13,
+        "position": "Midfielder",
+        "image": "leroysane.jpg"
+    },
+    {
+        "id": 1040,
+        "first_name": "David",
+        "last_name": "Silva",
+        "team": 14,
+        "position": "Midfielder",
+        "image": "davidsilva.jpg"
+    },
+    {
+        "id": 1036,
+        "first_name": "Raheem",
+        "last_name": "Sterling",
+        "team": 15,
+        "position": "Midfielder",
+        "image": "raheemsterling.jpg"
+    },
+    {
+        "id": 1500,
+        "first_name": "Yaya",
+        "last_name": "Toure",
+        "team": 16,
+        "position": "Midfielder",
+        "image": "yayatoure.jpg"
+    },
+    {
+        "id": 1001,
+        "first_name": "Eric",
+        "last_name": "Bailly",
+        "team": 17,
+        "position": "Defender",
+        "image": "ericbailly.jpg"
+    },
+    {
+        "id": 1017,
+        "first_name": "David",
+        "last_name": "De Gea",
+        "team": 18,
+        "position": "Goalkeeper",
+        "image": "daviddegea.jpg"
+    },
+    {
+        "id": 1706,
+        "first_name": "Ander",
+        "last_name": "Herrera",
+        "team": 19,
+        "position": "Midfielder",
+        "image": "anderherrera.jpg"
+    },
+    {
+        "id": 1044,
+        "first_name": "Zlatan",
+        "last_name": "Ibrahimovic",
+        "team": 20,
+        "position": "Striker",
+        "image": "zlatanibrahimovic.jpg"
+    },
+    {
+        "id": 1705,
+        "first_name": "Phil",
+        "last_name": "Jones",
+        "team": 1,
+        "position": "Defender",
+        "image": "philjones.jpg"
+    },
+    {
+        "id": 1031,
+        "first_name": "Juan",
+        "last_name": "Mata",
+        "team": 2,
+        "position": "Midfielder",
+        "image": "juanmata.jpg"
+    },
+    {
+        "id": 2202,
+        "first_name": "Henrikh",
+        "last_name": "Mkhitaryan",
+        "team": 3,
+        "position": "Midfielder",
+        "image": "henrikhmkhitaryan.jpg"
+    },
+    {
+        "id": 1034,
+        "first_name": "Paul",
+        "last_name": "Pogba",
+        "team": 4,
+        "position": "Midfielder",
+        "image": "paulpogba.jpg"
+    },
+    {
+        "id": 1204,
+        "first_name": "Marcus",
+        "last_name": "Rashford",
+        "team": 5,
+        "position": "Striker",
+        "image": "marcusrashford.jpg"
+    },
+    {
+        "id": 1704,
+        "first_name": "Antonio",
+        "last_name": "Valencia",
+        "team": 6,
+        "position": "Defender",
+        "image": "antoniovalencia.jpg"
+    },
+    {
+        "id": 1709,
+        "first_name": "Joe",
+        "last_name": "Allen",
+        "team": 7,
+        "position": "Midfielder",
+        "image": "joeallen.jpg"
+    },
+    {
+        "id": 2001,
+        "first_name": "Marko",
+        "last_name": "Arnautovic",
+        "team": 8,
+        "position": "Midfielder",
+        "image": "markoarnautovic.jpg"
+    },
+    {
+        "id": 2002,
+        "first_name": "Peter",
+        "last_name": "Crouch",
+        "team": 9,
+        "position": "Striker",
+        "image": "petercrouch.jpg"
+    },
+    {
+        "id": 2307,
+        "first_name": "Erik",
+        "last_name": "Pieters",
+        "team": 10,
+        "position": "Defender",
+        "image": "erikpieters.jpg"
+    },
+    {
+        "id": 2308,
+        "first_name": "Ryan",
+        "last_name": "Shawcross",
+        "team": 11,
+        "position": "Defender",
+        "image": "ryanshawcross.jpg"
+    },
+    {
+        "id": 1000,
+        "first_name": "Toby",
+        "last_name": "Alderweireld",
+        "team": 12,
+        "position": "Defender",
+        "image": "tobyalderweireld.jpg"
+    },
+    {
+        "id": 1401,
+        "first_name": "Dele",
+        "last_name": "Alli",
+        "team": 13,
+        "position": "Midfielder",
+        "image": "delealli.jpg"
+    },
+    {
+        "id": 2310,
+        "first_name": "Eric",
+        "last_name": "Dier",
+        "team": 14,
+        "position": "Midfielder",
+        "image": "ericdier.jpg"
+    },
+    {
+        "id": 1208,
+        "first_name": "Christian",
+        "last_name": "Eriksen",
+        "team": 15,
+        "position": "Midfielder",
+        "image": "christianeriksen.jpg"
+    },
+    {
+        "id": 1209,
+        "first_name": "Harry",
+        "last_name": "Kane",
+        "team": 16,
+        "position": "Striker",
+        "image": "harrykane.jpg"
+    },
+    {
+        "id": 1018,
+        "first_name": "Hugo",
+        "last_name": "Lloris",
+        "team": 17,
+        "position": "Goalkeeper",
+        "image": "hugolloris.jpg"
+    },
+    {
+        "id": 1035,
+        "first_name": "Heung-Min",
+        "last_name": "Son",
+        "team": 18,
+        "position": "Midfielder",
+        "image": "heung-minson.jpg"
+    },
+    {
+        "id": 1014,
+        "first_name": "Kyle",
+        "last_name": "Walker",
+        "team": 19,
+        "position": "Defender",
+        "image": "kylewalker.jpg"
+    },
+    {
+        "id": 1037,
+        "first_name": "Victor",
+        "last_name": "Wanyama",
+        "team": 20,
+        "position": "Midfielder",
+        "image": "victorwanyama.jpg"
+    },
+    {
+        "id": 1021,
+        "first_name": "Nacer",
+        "last_name": "Chadli",
+        "team": 1,
+        "position": "Midfielder",
+        "image": "nacerchadli.jpg"
+    },
+    {
+        "id": 1006,
+        "first_name": "Jonny",
+        "last_name": "Evans",
+        "team": 2,
+        "position": "Defender",
+        "image": "jonnyevans.jpg"
+    },
+    {
+        "id": 2311,
+        "first_name": "Ben",
+        "last_name": "Foster",
+        "team": 3,
+        "position": "Goalkeeper",
+        "image": "benfoster.jpg"
+    },
+    {
+        "id": 1011,
+        "first_name": "Gareth",
+        "last_name": "McAuley",
+        "team": 4,
+        "position": "Defender",
+        "image": "garethmcauley.jpg"
+    },
+    {
+        "id": 1707,
+        "first_name": "Matt",
+        "last_name": "Phillips",
+        "team": 5,
+        "position": "Midfielder",
+        "image": "mattphillips.jpg"
+    },
+    {
+        "id": 1047,
+        "first_name": "Salomon",
+        "last_name": "Rondon",
+        "team": 6,
+        "position": "Striker",
+        "image": "salomonrondon.jpg"
+    }
+]
